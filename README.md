@@ -1,7 +1,7 @@
 ---
 title: DevOps
 authors:
-  - Gonzalo Etse <gonzalo@adaltas.com>
+  - Gonzalo Etse <gonzaloetjo@gmail.com>
   - Yanis Bariteau <yanis@adaltas.com>
 feature: ./feature/index.png
 ---

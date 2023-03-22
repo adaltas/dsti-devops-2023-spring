@@ -1,10 +1,11 @@
----
+<pre>
 title: DevOps
 authors:
   - Gonzalo Etse <gonzaloetjo@gmail.com>
   - Yanis Bariteau <yanis@adaltas.com>
+  - Guillaume Holdorf Etse <guillaume.h@adaltas.com>
 feature: ./feature/index.png
----
+</pre>
 
 # dsti-devops-2023-sprin
 

@@ -1,9 +1,9 @@
 <pre>
 title: DevOps
 authors:
-  - Gonzalo Etse <gonzaloetjo@gmail.com>
-  - Yanis Bariteau <yanis@adaltas.com>
-  - Guillaume Holdorf Etse <guillaume.h@adaltas.com>
+  - Gonzalo Etse - gonzaloetjo@gmail.com
+  - Yanis Bariteau - yanis@adaltas.com
+  - Guillaume Holdorf - guillaume.h@adaltas.com
 feature: ./feature/index.png
 </pre>
 
